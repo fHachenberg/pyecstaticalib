@@ -5,7 +5,7 @@ library to load and represent data structures from the 1994 horror game Ecstatic
 
 Ecstatica is published by Psygnosis, Copyright 1994 by Andrew Spencer Studios. 
 
-More information about the library and the data formats can be found on [http://ecstatica.wikidot.com/].
+More information about the library and the data formats can be found on http://ecstatica.wikidot.com/.
 
 Prerequisites
 -------------
