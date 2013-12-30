@@ -10,8 +10,8 @@ More information about the library and the data formats can be found on [http://
 Prerequisites
 -------------
 
- *Python 3.x
- *Ecstatica game files. Please purchase a legal copy of the game!
+* Python 3.x
+* Ecstatica game files. Please purchase a legal copy of the game!
 
 Assemble test data
 ------------------
