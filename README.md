@@ -1,7 +1,7 @@
-ecstaticalib
+pyecstaticalib
 ============
 
-library to load and represent data structures from the 1994 horror game Ecstatica
+Python library to load and represent data structures from the 1994 horror game Ecstatica
 
 Ecstatica is published by Psygnosis, Copyright 1994 by Andrew Spencer Studios. 
 
